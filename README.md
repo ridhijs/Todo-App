@@ -1,4 +1,5 @@
 # Todo-App
 Simple Todo Application using Python framework - Flask
 
-https://www.youtube.com/watch?v=d8ZOowBl8L8
+Link to the video explanation
+https://www.youtube.com/channel/UCA2Y2r737jMEsngXPovTLnQ
